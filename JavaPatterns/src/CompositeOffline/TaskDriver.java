@@ -6,7 +6,7 @@ package CompositeOffline;
 //CompositeTask is the composite class
 //TaskPatternDemo is the client class
 
-public class TaskPatternDemo {
+public class TaskDriver {
     public static void main(String[] args) {
 
         LeafTask study = new LeafTask ( "Study","Study about composite pattern",60,"not done" );
